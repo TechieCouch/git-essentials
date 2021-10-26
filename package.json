@@ -3,12 +3,18 @@
   "displayName": "Git Essentials",
   "description": "The 2021 Collection of extensions for the modern developer using GIT on VS Code",
   "version": "0.0.1",
+  "publisher": "TechieCouch",
+  "icon": "images/logo.jpg",
   "engines": {
     "vscode": "0.10.x"
   },
   "categories": [
     "Extension Packs"
   ],
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/TechieCouch/git-essentials"
+  },
   "keywords": [
     "Git",
     "gitignore",
@@ -17,7 +23,8 @@
     "git history",
     "open in github",
     "git lens",
-    "sync to git"
+    "sync to git",
+    "git merge"
   ],
   "extensionPack": [
     "publisher.extensionName",
@@ -30,4 +37,5 @@
     "Shan.code-settings-sync",
     "shyykoserhiy.git-autoconfig",
     "shaharkazaz.git-merger"
+  ]
 }
