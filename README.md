@@ -2,9 +2,9 @@
 
 ---
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/TechieCouch.git-essentials.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/TechieCouch.git-essentials.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
-[![Ratings](https://vsmarketplacebadge.apphb.com/downloads/TechieCouch.git-essentials.svg)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
+[![Version](https://vsmarketplacebadge.apphb.com/version/TechieCouch.git-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/TechieCouch.git-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
+[![Ratings](https://vsmarketplacebadge.apphb.com/downloads/TechieCouch.git-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
 
 ## Extensions included
 
