@@ -18,3 +18,5 @@
 - [Git Merger](https://marketplace.visualstudio.com/items?itemName=shaharkazaz.git-merger) - Simplifies the git merge process
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 - [Git Tags](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-git-tags) - Quick manage tags for a git repo.
+- [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) - This extension integrates GitLab into Visual Studio Code.
+- [Git Branch Warnings](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) - Branch Warnings - Alerts you when you are working on a branch you have designated "protected" such as main or master. Can help to remember not to commit to the wrong branch.

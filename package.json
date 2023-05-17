@@ -37,6 +37,8 @@
     "Shan.code-settings-sync",
     "shyykoserhiy.git-autoconfig",
     "shaharkazaz.git-merger",
-    "howardzuo.vscode-git-tags"
+    "howardzuo.vscode-git-tags",
+    "GitLab.gitlab-workflow",
+    "teledemic.branch-warnings"
   ]
 }
