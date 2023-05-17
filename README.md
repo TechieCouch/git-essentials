@@ -1,4 +1,4 @@
-# GIt Essentials Extension Pack 2021 - TechieCouch
+# GIt Essentials Extension Pack 2023 - TechieCouch
 
 ---
 
@@ -17,3 +17,4 @@
 - [git-autoconfig](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.git-autoconfig) - Working with git repos where you can have multiple emails (like one for work, one for github, one for bitbucket, etc...) can be painful. This extension forces you to set locally user.email and user.name for each project under git that you open with vscode.
 - [Git Merger](https://marketplace.visualstudio.com/items?itemName=shaharkazaz.git-merger) - Simplifies the git merge process
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+- [Git Tags](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-git-tags) - Quick manage tags for a git repo.

@@ -1,17 +1,17 @@
 {
   "name": "git-essentials",
   "displayName": "Git Essentials",
-  "description": "The 2021 Collection of extensions for the modern developer using GIT on VS Code",
-  "version": "0.0.1",
+  "description": "The 2023 Collection of extensions for the modern developer using GIT on VS Code",
+  "version": "0.0.3",
   "publisher": "TechieCouch",
   "icon": "images/logo.jpg",
   "engines": {
-    "vscode": "0.10.x"
+    "vscode": "^0.10.x"
   },
   "categories": [
     "Extension Packs"
   ],
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/TechieCouch/git-essentials"
   },
@@ -36,6 +36,7 @@
     "ziyasal.vscode-open-in-github",
     "Shan.code-settings-sync",
     "shyykoserhiy.git-autoconfig",
-    "shaharkazaz.git-merger"
+    "shaharkazaz.git-merger",
+    "howardzuo.vscode-git-tags"
   ]
 }
