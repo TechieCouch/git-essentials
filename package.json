@@ -2,7 +2,7 @@
   "name": "git-essentials",
   "displayName": "Git Essentials",
   "description": "The 2023 Collection of extensions for the modern developer using GIT on VS Code",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "publisher": "TechieCouch",
   "icon": "images/logo.jpg",
   "engines": {
