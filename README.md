@@ -20,3 +20,4 @@
 - [Git Tags](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-git-tags) - Quick manage tags for a git repo.
 - [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) - This extension integrates GitLab into Visual Studio Code.
 - [Git Branch Warnings](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) - Branch Warnings - Alerts you when you are working on a branch you have designated "protected" such as main or master. Can help to remember not to commit to the wrong branch.
+- [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - This extension allows you to review and manage GitHub pull requests and issues in Visual Studio Code.

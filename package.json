@@ -39,6 +39,7 @@
     "shaharkazaz.git-merger",
     "howardzuo.vscode-git-tags",
     "GitLab.gitlab-workflow",
-    "teledemic.branch-warnings"
+    "teledemic.branch-warnings",
+    "GitHub.vscode-pull-request-github"
   ]
 }
